@@ -1,0 +1,2 @@
+class SI:
+    loginWin = None
